@@ -1,0 +1,24 @@
+{
+  "name": "emacscript6-platzi",
+  "version": "0.0.1",
+  "description": "Different practices with ecma6 to javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpmontoya182/emacscript6-platzi.git"
+  },
+  "keywords": [
+    "javascript",
+    "emac6",
+    "testing"
+  ],
+  "author": "jpmontoya182",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jpmontoya182/emacscript6-platzi/issues"
+  },
+  "homepage": "https://github.com/jpmontoya182/emacscript6-platzi#readme"
+}
